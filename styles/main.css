@@ -60,6 +60,10 @@ h6 {
 } */
 
 /* add your CSS here */
+body {
+  font-family: "Tilt Warp", cursive;
+  color: var(--color-font);
+}
 :root {
   --color-font: #333;
   --color-primary: #787b7c;
@@ -67,10 +71,6 @@ h6 {
   --color-dark-accent: #272727;
   --color-accent: #54a1ee;
   --color-accent-light: #8dcbf2;
-}
-body {
-  font-family: "Tilt Warp", cursive;
-  color: var(--color-font);
 }
 
 h1,
